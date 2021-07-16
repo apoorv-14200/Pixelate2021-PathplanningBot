@@ -5,4 +5,5 @@ Pixelate is computer vision based robotic event in which we are asked to design 
 This year's problem statement was inspired from real world problem of traffic in cities.We need to make the robot which will collect the patient from one place and drop him/her to the nearest hospital by taking shortest path available following one way road constraints.**
 
 
-
+# ARENA-IMAGE
+![Arenaimg](pixelate.jpeg)
