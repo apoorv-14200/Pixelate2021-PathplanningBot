@@ -10,5 +10,5 @@ This year's problem statement was inspired from real world problem of traffic in
 # ARENA-IMAGE
 ![Arenaimg](pixelate.jpeg)
 
-#Bot Running
+# Bot Running
 ![BotRun](botRun.gif)
